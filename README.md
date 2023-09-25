@@ -1,4 +1,4 @@
-# GitHub Bootcamp - Workshop SMALL CHANGE
+# GitHub Bootcamp - Workshop
 
 Repo for the `GitHub Bootcamp` 1-day Workshop from @wulfland.
 
